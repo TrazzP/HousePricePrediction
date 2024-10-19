@@ -1,5 +1,7 @@
 README: House Price Prediction Project
+
 By TRAZZ PEPPER
+
 Score: 0.129 on Kaggle (top 800 as of 10/2024)
 
 Project Overview
